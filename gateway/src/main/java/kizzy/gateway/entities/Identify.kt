@@ -22,8 +22,8 @@ data class Identify(
             largeThreshold = 100,
             properties = Properties(
                 browser = "Discord Client",
-                device = "ktor",
-                os = "Windows"
+                device = "android",
+                os = "android"
             ),
             token = this
         )
