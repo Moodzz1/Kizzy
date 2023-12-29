@@ -21,7 +21,7 @@ data class Identify(
             compress = false,
             largeThreshold = 100,
             properties = Properties(
-                browser = "Discord Client",
+                browser = "chrome",
                 device = "android",
                 os = "android"
             ),
